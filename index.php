@@ -1,4 +1,4 @@
-﻿<!--
+<!--
    _____      _                  _                    ______  
   / ____|    | |      _         | |                  / /___ \ 
  | |     __ _| |_   _| |_       | | ___ _ __  ___   / /  __) |
@@ -36,7 +36,6 @@ body {
 	background-size: cover;
 	background-position: center center;
 	background-attachment: fixed;
-	height: 100%;
 	font-family: 'Roboto', sans-serif;
 	padding-top: 70px;
 }
@@ -45,7 +44,7 @@ h1 {
 	margin-top:0px;
 }
 .fa-heart {
-	color: red;
+	color: #A81010;
 }
 </style>
 </head>
@@ -55,7 +54,7 @@ h1 {
 			<article class="col-lg-12 col-md-12">
 				<div class="jumbotron">
 					<h1> <i class="fas fa-heart" data-toggle="tooltip" data-placement="top" title="25/07/2017" data-toggle="modal" data-target="#exampleModal"></i></h1>
-					<h1 id="countdown"></h1>
+					<!--<h1 id="countdown"></h1>-->
 				</div>
 				<div class="jumbotron">
 					<div class="embed-responsive embed-responsive-16by9">
