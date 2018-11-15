@@ -54,7 +54,7 @@ h1 {
 			<article class="col-lg-12 col-md-12">
 				<div class="jumbotron">
 					<h1> <i class="fas fa-heart" data-toggle="tooltip" data-placement="top" title="25/07/2017" data-toggle="modal" data-target="#exampleModal"></i></h1>
-					<!--<h1 id="countdown"></h1>-->
+					<h1 id="countdown"></h1>
 				</div>
 				<div class="jumbotron">
 					<div class="embed-responsive embed-responsive-16by9">
@@ -66,9 +66,9 @@ h1 {
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"  crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"crossorigin="anonymous"></script>
-<!--<script src="https://static.jensz12.com/script/snowstorm.js"></script>-->
+<script src="https://static.jensz12.com/script/snowstorm.js"></script>
 <script>
-	var countDownDate = new Date("Oct 26, 2018 17:45:00").getTime();
+	var countDownDate = new Date("Nov 21, 2018 16:53:00").getTime();
 	var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate - now;
