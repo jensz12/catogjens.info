@@ -68,7 +68,7 @@ h1 {
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"crossorigin="anonymous"></script>
 <script src="https://static.jensz12.com/script/snowstorm.js"></script>
 <script>
-	var countDownDate = new Date("Nov 21, 2018 16:53:00").getTime();
+	var countDownDate = new Date("Dec 21, 2018 12:40:00").getTime();
 	var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate - now;
