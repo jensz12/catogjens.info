@@ -24,11 +24,11 @@
 <meta name="twitter:title" content="Cat & Jens ❤️">
 <meta name="twitter:description" content="❤️">
 <meta name="twitter:image:src" content="https://catogjens.info/20180427_164231.jpg">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" crossorigin="anonymous">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" crossorigin="anonymous">
 <link rel="manifest" href="/manifest.json">
 <link rel="image_src" href="https://catogjens.info/20180427_164231.jpg">
 <link href='https://fonts.googleapis.com/css?family=Roboto:100,300' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-POYwD7xcktv3gUeZO5s/9nUbRJG/WOmV6jfEGikMJu77LGYO8Rfs2X7URG822aum" crossorigin="anonymous">
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.6.3/css/all.css" crossorigin="anonymous">
 <style>
 body {
 	background-image: url(https://catogjens.info/20180427_164231.jpg);
@@ -54,7 +54,7 @@ h1 {
 			<article class="col-lg-12 col-md-12">
 				<div class="jumbotron">
 					<h1> <i class="fas fa-heart" data-toggle="tooltip" data-placement="top" title="25/07/2017" data-toggle="modal" data-target="#exampleModal"></i></h1>
-					<h1 id="countdown"></h1>
+					<!--<h1 id="countdown"></h1>-->
 				</div>
 				<div class="jumbotron">
 					<div class="embed-responsive embed-responsive-16by9">
@@ -65,10 +65,10 @@ h1 {
 		</div>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"  crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"crossorigin="anonymous"></script>
-<script src="https://static.jensz12.com/script/snowstorm.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"  crossorigin="anonymous"></script>
+<!--<script src="https://static.jensz12.com/script/snowstorm.js"></script>-->
 <script>
-	var countDownDate = new Date("Dec 21, 2018 12:40:00").getTime();
+	var countDownDate = new Date("Jan 18, 2019 21:05:00").getTime();
 	var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate - now;
