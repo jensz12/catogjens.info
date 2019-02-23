@@ -1,28 +1,26 @@
 <!--
-   _____      _                  _                    ______  
-  / ____|    | |      _         | |                  / /___ \ 
- | |     __ _| |_   _| |_       | | ___ _ __  ___   / /  __) |
- | |    / _` | __| |_   _|  _   | |/ _ \ '_ \/ __| < <  |__ < 
- | |___| (_| | |_    |_|   | |__| |  __/ | | \__ \  \ \ ___) |
-  \_____\__,_|\__|          \____/ \___|_| |_|___/   \_\____/ 
-                                                              
-                                                              
+   _____      _                  _                     __     ______  
+  / ____|    | |      _         | |                   / /    / /___ \ 
+ | |     __ _| |_   _| |_       | | ___ _ __  ___    / /    / /  __) |
+ | |    / _` | __| |_   _|  _   | |/ _ \ '_ \/ __|  < <    / /  |__ < 
+ | |___| (_| | |_    |_|   | |__| |  __/ | | \__ \   \ \  / /   ___) |
+  \_____\__,_|\__|          \____/ \___|_| |_|___/    \_\/_/   |____/                                                                                                                                  
 -->
 <!DOCTYPE html>
-<html lang="da-DK">
+<html lang="da">
 <head>
 <meta charset="utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Cat & Jens ❤️</title>
-<link rel="icon" href="https://catogjens.info/emoji_u2665.png">
-<meta name="description" content="❤️">
+<title>Cat & Jens 💔</title>
+<link rel="icon" href="https://catogjens.info/emoji_u1f494.png">
+<meta name="description" content="💔">
 <meta name="theme-color" content="#A81010">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@jensz12">
 <meta name="twitter:creator" content="@jensz12">
-<meta name="twitter:title" content="Cat & Jens ❤️">
-<meta name="twitter:description" content="❤️">
+<meta name="twitter:title" content="Cat & Jens 💔">
+<meta name="twitter:description" content="💔">
 <meta name="twitter:image:src" content="https://catogjens.info/20180427_164231.jpg">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" crossorigin="anonymous">
 <link rel="manifest" href="/manifest.json">
@@ -43,7 +41,7 @@ h1 {
   	text-align: center;
 	margin-top:0px;
 }
-.fa-heart {
+.fa-heart-broken {
 	color: #A81010;
 }
 </style>
@@ -53,14 +51,14 @@ h1 {
 		<div class="row">
 			<article class="col-lg-12 col-md-12">
 				<div class="jumbotron">
-					<h1> <i class="fas fa-heart" data-toggle="tooltip" data-placement="top" title="25/07/2017" data-toggle="modal" data-target="#exampleModal"></i></h1>
+					<h1> <i class="fas fa-heart-broken fa-4x" data-toggle="tooltip" data-placement="top" title="25/07/2017 - 04/02/2019"></i></h1>
 					<!--<h1 id="countdown"></h1>-->
 				</div>
-				<div class="jumbotron">
+				<!--<div class="jumbotron">
 					<div class="embed-responsive embed-responsive-16by9">
   						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Arj8WZJMPIo?showinfo=0&color=white&theme=light&fs=1" allowfullscreen></iframe>
 					</div>
-				</div>
+				</div>-->
 			</article>
 		</div>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"  crossorigin="anonymous"></script>
