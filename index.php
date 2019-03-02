@@ -59,6 +59,10 @@ h1 {
   						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Arj8WZJMPIo?showinfo=0&color=white&theme=light&fs=1" allowfullscreen></iframe>
 					</div>
 				</div>-->
+				<div class="jumbotron">
+				<img src="/love/<?php echo mt_rand(1, 137); ?>.jpg" class="img-fluid mx-auto d-block" alt="Responsive image">
+				</div>
+				
 			</article>
 		</div>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"  crossorigin="anonymous"></script>
